@@ -1,0 +1,13 @@
+load /Users/JT/Github/xfoil_lab_16/visfoil.dat
+    panel
+    oper
+    visc 1397535
+    M 0.1
+    type 1
+    pacc
+/Users/JT/Github/xfoil_lab_16/polar.dat
+    
+    iter 1000
+    cl 1.2
+    
+    quit
