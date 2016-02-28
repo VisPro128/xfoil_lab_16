@@ -1,22 +1,13 @@
-load_/Users/JT/Google Drive/]Uni Stuff/Python/xfoil/visfoil.dat
-panel
-oper
-visc_1397535
-M_0.1
-type_1
-pacc
- /Users/JT/Google Drive/]Uni Stuff/Python/xfoil/polar.dat
-
-iter
-_1000
-cl_1.2
-
-
-quit
-  
-    iter
-_1000
-    cl_1.2
+load_/Users/JT/Github/xfoil_lab_16/visfoil.dat
+    panel
+    oper
+    visc_1397535
+    M_0.1
+    type_1
+    pacc
+/Users/JT/Github/xfoil_lab_16/polar.dat
     
+    iter_1000
+    cl_1.2
     
     quit
